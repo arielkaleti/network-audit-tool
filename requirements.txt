@@ -1,0 +1,6 @@
+# SecureAudit v2.0 — CSC 242
+# Dépendances Python à installer avec : pip install -r requirements.txt
+
+mysql-connector-python==9.7.0   # Connexion et CRUD MySQL
+python-nmap>=0.7.1              # Wrapper Python pour Nmap (scanner réseau)
+reportlab>=4.0.0                # Génération de rapports PDF
